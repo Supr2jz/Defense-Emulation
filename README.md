@@ -53,7 +53,9 @@ Anaise de disco -
 
 arquivos .ad1 - jogar no ftkimager para analise 
 
-autopsy - 
+autopsy - New case - tudo padrao so colocar nome - finish - next - next - em select data sourch Path: selecionar o arquivo a ser analisado e avançar
+![image](https://github.com/Supr2jz/Defense-Emulation/assets/124740255/19da85c4-7f23-4f5d-8486-1a0de39bed06)
+
 
 academia forense digital
 
